@@ -25,9 +25,9 @@ Analyze employee attrition patterns and identify factors contributing to workfor
 - Attrition Analysis by Gender, Department, and Age Group
 
 ## Files Included
-- Tableau Dashboard (.twbx)
+- Tableau Dashboard (.pptx)
 - Dataset (.csv)
 - Dashboard Screenshot (.png)
 
-## Tableau Public Dashboard
+## Live Dashboard
 https://public.tableau.com/app/profile/aditya.goli3602/viz/IBMAttritionAnalyticsDashboard_17792704759610/IBMHRAnalyticsAttritionDashboard?publish=yes
